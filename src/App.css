@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.best {
+  background-position: 0 50%;
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
