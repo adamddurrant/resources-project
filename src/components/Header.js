@@ -32,7 +32,7 @@ export const Heading = () => {
       </div>
       <main>
         <div className='relative px-6 lg:px-8'>
-          <div className='mx-auto max-w-3xl pt-10 pb-32 sm:pt-40 sm:pb-40'>
+          <div className='mx-auto max-w-3xl pt-32 pb-32 max-sm:pt-32 sm:pb-40'>
             <div>
               <div className='hidden sm:mb-8 sm:flex sm:justify-center'>
                 <div className='relative overflow-hidden rounded-full py-1.5 px-4 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20'>
@@ -42,15 +42,15 @@ export const Heading = () => {
                 </div>
               </div>
               <div>
-                <h1 className='text-4xl font-bold tracking-tight sm:text-center sm:text-6xl'>
+                <h1 className='text-4xl text-center font-bold tracking-tight sm:text-6xl'>
                   A Curated List of the Best SEO Resources on Earth
                 </h1>
-                <p className='mt-6 text-lg leading-8 text-gray-600 sm:text-center'>
+                <p className='text-center mt-6 text-lg leading-8 text-gray-600'>
                   Accelerate your learning, productivity and efficiency with a
                   giant list of the worlds best SEO resources, tools, guides,
                   content, extensions, apps and more.
                 </p>
-                <div className='mt-8 flex gap-x-4 sm:justify-center'>
+                <div className='mt-8 flex gap-x-4 justify-center'>
                   <a
                     href='#'
                     className='inline-block rounded-lg bg-indigo-600 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-700 hover:ring-indigo-700'

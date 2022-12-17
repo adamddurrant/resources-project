@@ -5,7 +5,7 @@ import { Card } from './Card.js';
 export const ResourceSection = () => {
   return (
     <>
-      <div className='relative z-0 overflow-hidden mt-3 block px-16'>
+      <div className='relative max-sm:w-[100%] z-0 mt-3 block overflow-hidden'>
         {resourceData.map((data) => (
           //Iterate through resourceData array with callback function and map it to props sent to every card
           <Card
