@@ -14,6 +14,15 @@ export const CategorySection = ({
         <div class='mb-2 text-base font-bold uppercase mb-[20px]'>
           categories
         </div>
+        <button onClick={() => setActive(null)} className='prebump block mt-2'>
+          <h4 class='bump static inline-block overflow-hidden w-10 h-10 mt-1 mr-5 mb-0 pt-2 pl-0 rounded text-center no-underline font-bold border'>
+            A
+          </h4>
+          <div class='relative inline-block overflow-hidden text-sm font-bold top-[-12px]'>
+            All Resources
+          </div>
+        </button>
+
         {categoryData.map((data) => (
           //Iterate through categoryData array with callback function and map it to props sent to every Filter component
 

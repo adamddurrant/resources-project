@@ -8,6 +8,11 @@
   background-repeat: no-repeat;
 }
 
-.button:hover > h4 {
+.prebump:hover .bump {
   transform: translate(0, -5px);
+  transition: 0.2s;
+}
+
+.bump {
+  transition: 0.2s;
 }

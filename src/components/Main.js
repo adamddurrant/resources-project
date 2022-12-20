@@ -17,7 +17,10 @@ export const Main = () => {
 
   return (
     <>
-      <div className='max-w-[1100px] max-[1000px]:max-w-[92%] block relative mr-auto mb-12 ml-auto'>
+      <div
+        id='resources'
+        className='max-w-[1100px] max-[1000px]:max-w-[92%] block relative mr-auto mb-12 ml-auto'
+      >
         <CategorySection
           resources={resources}
           setFiltered={setFiltered}

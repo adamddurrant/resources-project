@@ -27,9 +27,9 @@ export const Filter = ({
 
   return (
     <>
-      <button onClick={() => setActive(slug)} className='block mt-2'>
+      <button onClick={() => setActive(slug)} className='prebump block mt-2'>
         <h4
-          class='static inline-block overflow-hidden w-10 h-10 mt-1 mr-5 mb-0 pt-2 pl-0 rounded text-center no-underline font-bold'
+          class='bump static inline-block overflow-hidden w-10 h-10 mt-1 mr-5 mb-0 pt-2 pl-0 rounded text-center no-underline font-bold'
           style={bg}
         >
           {letter}
