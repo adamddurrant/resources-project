@@ -16,7 +16,7 @@ They say you should write about things you know. Well, I know SEO and I'm learni
 
 ## Screenshot
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Features
 
