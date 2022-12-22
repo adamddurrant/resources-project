@@ -17,6 +17,7 @@ export const ResourceSection = ({ filtered }) => {
             name={data.Name}
             description={data.Description}
             top={data.Favourite}
+            link={data.URL}
           />
         ))}
       </motion.div>

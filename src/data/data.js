@@ -9,7 +9,7 @@ export const resourceData = [
     Published: 'Sun Mar 07 2021 11:34:18 GMT+0000 (Coordinated Universal Time)',
     Logo: '/images/604136683c67cc9d6c55c783_5f74669d7f7b0c5f6048e0a1_adurrant-webclip.png',
     Category: 'blogs',
-    URL: 'https://www.adamdurrant.co.uk/blog/bookmarklets',
+    URL: 'https://medium.com/@addurrant/15-tried-tested-bookmarklets-to-make-seos-efficient-af-c73dc239908d',
     Description:
       "A list of 15 of the most useful bookmarklet scripts for SEO's and web marketers that you can use can use instantly to automate everyday tasks.",
     Categories: 'blogs; technical-seo',
@@ -1182,22 +1182,6 @@ export const resourceData = [
     Description:
       "The world's first browser built for International SEO's - Accurately analyse international SERPs with this this simple and clean web browser.",
     Categories: 'accessibility; content; technical-seo',
-    Favourite: false,
-  },
-  {
-    Name: 'SEO Glossary',
-    Slug: 'seo-glossary',
-    Collection: '60413d0f9eaf160047db4025',
-    ID: '604500fe923a6236698981cf',
-    Created: 'Sun Mar 07 2021 16:36:14 GMT+0000 (Coordinated Universal Time)',
-    Updated: 'Sun Mar 07 2021 16:36:14 GMT+0000 (Coordinated Universal Time)',
-    Published: 'Sun Mar 07 2021 16:36:14 GMT+0000 (Coordinated Universal Time)',
-    Logo: '/images/604136683c67cc9d6c55c783_5f74669d7f7b0c5f6048e0a1_adurrant-webclip.png',
-    Category: 'blogs',
-    URL: 'https://www.adamdurrant.co.uk/seo-glossary',
-    Description:
-      'A jargon busting web marketers dictionary full of industry terminology written in super plain English, with examples, written by a web marketer.',
-    Categories: 'blogs; content',
     Favourite: false,
   },
   {
